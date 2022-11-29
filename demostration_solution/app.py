@@ -1,5 +1,4 @@
-from flask import Flask
-from flask_restx import Api
+from flask import Flask, Api
 
 from config import Config
 from setup_db import db
